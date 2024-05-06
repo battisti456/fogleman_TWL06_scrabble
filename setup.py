@@ -27,8 +27,8 @@ def setup(name = "fogleman-TWL06-scrabble",
 def main():
     setuptools.setup(name = "fogleman-TWL06-scrabble",
           description="A convenient, self-contained, 515 KB Scrabble dictionary module, ideal for use in word games.",
-          version = "1.0.0",
-          url = 'https://github.com/fogleman/TWL06',
+          version = "1.0.1",
+          url = 'https://github.com/battisti456/TWL06',
           author = 'Michael Fogleman',
           author_email = "",
           license = 'MIT')
